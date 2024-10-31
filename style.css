@@ -26,8 +26,7 @@ body {
 
 .legend .banner img {
     object-fit: cover;
-    width: 100%;
-    max-width: 600px;
+    width: 250px;
     border-radius: 1rem;
 }
 
